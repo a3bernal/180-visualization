@@ -11,8 +11,9 @@ The requirements needed for Autoware:
   - CPU: An i5 is needed at the bare minimum but an i7 is recommended
   - Memory:  16GB to 32GB
   - Graphics Card: NVIDIA GTX GeForce GPU(980M or higher performance)
--SSD: At least 30 GB
--Alternative for GPU: Use an Nvidia Drive
+  - SSD: At least 30 GB
+  - Alternative for GPU: Use an Nvidia Drive
+  
 We installed and ran Rviz which is the visualization for Autoware through build commands in Ubuntu. Using some sample data we created a visualization of the sample track shown here.
 
 ### Data and Conversion
