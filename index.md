@@ -16,7 +16,7 @@ The requirements needed for Autoware:
   
 We installed and ran Rviz which is the visualization for Autoware through build commands in Ubuntu. Using some sample data we created a visualization of the sample track shown here.
 
-![Image](https://drive.google.com/uc?export=view&id=1KznTS2XIsNEJrT-Y53hQofdlYH5hjNRK)
+![Image](https://drive.google.com/uc?export=view&id=1Dw5z4BI11FbxUvhfdYO_4WYVdjiJa2iG)
 
 ### Data and Conversion
 In terms of grabbing actual data, we were lucky enough to be given the thunderhill data in pcap form by students from another class also studying this course in unity. Our data that we fed into unity needed to be in the format of a PCD or point cloud data format. What we had was the thunderhill data in a PCAP file format which was a binary compression of many PCD files. To get this extraction, we used an online converter we found that someone had coded. We fixed the code up a little bit and was able to successfully do the conversion !
@@ -26,9 +26,11 @@ In terms of grabbing actual data, we were lucky enough to be given the thunderhi
 
 We decided to use a software tool called Unity to load in and improve the quality of the thunderhill race track. We were able to load in the Thunderhill Race track into Unity which including the west and east race tracks using exisisting Velodyne lidar data of the Thunder Hill Track. Since we are only working on the west trtack of the thunderhill track we trimed the racetrack to only include the west track which is about 2 miles. We were also able to add elevation data to the track to make it look as realistic as possible so that it's ready to be placed in our LGSVL simulator.
 
-Insert BEFORE pic and INSERT after pic 
+![Image](https://drive.google.com/uc?export=view&id=1feJC-iUI9h2RmhzQ9TktB5QkdAToBBnG)
+
+
 
 ### Simulator
 
 We will place our ThunderHill track from Unity and import it into the LGSVL simulator so that we can visualize how it actually looks in the simulator and we will also be able to see how our robot performs in the simulation. We decided to use this simulator since it works well with Unity and since it includes all the sensors that we need such as the lidar, odometry, IMU, etc.
-### Demo Video
+
