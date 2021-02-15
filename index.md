@@ -14,7 +14,7 @@ The requirements needed for Autoware:
   - SSD: At least 30 GB
   - Alternative for GPU: Use an Nvidia Drive
   
-We installed and ran Rviz which is the visualization for Autoware through build commands in Ubuntu. Using some sample data we created a visualization of the sample track shown here.
+We installed and ran rviz which is the visualization for Autoware through build commands in Ubuntu. Using some sample data we created a visualization of the sample track shown here.
 
 ![Image](https://drive.google.com/uc?export=view&id=1Dw5z4BI11FbxUvhfdYO_4WYVdjiJa2iG)
 
