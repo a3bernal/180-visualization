@@ -24,6 +24,11 @@ In terms of grabbing actual data, we were lucky enough to be given the thunderhi
 
 ### Integrating the Map
 
+We decided to use a software tool called Unity to load in and improve the quality of the thunderhill race track. We were able to load in the Thunderhill Race track into Unity which including the west and east race tracks using exisisting Velodyne lidar data of the Thunder Hill Track. Since we are only working on the west trtack of the thunderhill track we trimed the racetrack to only include the west track which is about 2 miles. We were also able to add elevation data to the track to make it look as realistic as possible so that it's ready to be placed in our LGSVL simulator.
+
+Insert BEFORE pic and INSERT after pic 
+
 ### Simulator
 
+We will place our ThunderHill track from Unity and import it into the LGSVL simulator so that we can visualize how it actually looks in the simulator and we will also be able to see how our robot performs in the simulation. We decided to use this simulator since it works well with Unity and since it includes all the sensors that we need such as the lidar, odometry, IMU, etc.
 ### Demo Video
