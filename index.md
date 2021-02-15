@@ -16,9 +16,11 @@ The requirements needed for Autoware:
   
 We installed and ran Rviz which is the visualization for Autoware through build commands in Ubuntu. Using some sample data we created a visualization of the sample track shown here.
 
+![Image](https://drive.google.com/uc?export=view&id=1KznTS2XIsNEJrT-Y53hQofdlYH5hjNRK)
+
 ### Data and Conversion
 In terms of grabbing actual data, we were lucky enough to be given the thunderhill data in pcap form by students from another class also studying this course in unity. Our data that we fed into unity needed to be in the format of a PCD or point cloud data format. What we had was the thunderhill data in a PCAP file format which was a binary compression of many PCD files. To get this extraction, we used an online converter we found that someone had coded. We fixed the code up a little bit and was able to successfully do the conversion !
-![Image](https://drive.google.com/file/d/1KznTS2XIsNEJrT-Y53hQofdlYH5hjNRK)
+![Image](https://drive.google.com/uc?export=view&id=1Dw5z4BI11FbxUvhfdYO_4WYVdjiJa2iG)
 
 ### Integrating the Map
 
