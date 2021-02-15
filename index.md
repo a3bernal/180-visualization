@@ -30,9 +30,7 @@ We decided to use a software tool called Unity to load in and improve the qualit
 ![Image](https://doc-0s-a0-docs.googleusercontent.com/docs/securesc/649l0lfk0nceud27v3dfd7eh0npjh8d9/se1tg60oqu2i216oho9uulkqpgthojsb/1613374950000/10575429113603452305/18111229792978024561/1feJC-iUI9h2RmhzQ9TktB5QkdAToBBnG?e=view&authuser=1&nonce=sj1c8uhc91j8k&user=18111229792978024561&hash=elt3t449i1nmm1ash27f3ngif4hie8j3)
 
 ### Video of the Track can be found below 
-![Image](https://drive.google.com/uc?export=view&id=1vtF_PLNSUShigg4YIK_W5aqYvvA_UXG8)
-![Video](https://drive.google.com/uc?export=view&id=1vtF_PLNSUShigg4YIK_W5aqYvvA_UXG8)
-
+[GitHub](https://drive.google.com/uc?export=view&id=1vtF_PLNSUShigg4YIK_W5aqYvvA_UXG8)
 
 ### Simulator
 
